@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="IMG_7423.jpg" width="180" height="200" style="border-radius: 50%; object-fit: cover;" alt="Qistina Balqis Profile Picture" />
+  <img src="IMG_7423.jpeg" width="180" height="200" style="border-radius: 50%; object-fit: cover;" alt="Qistina Balqis Profile Picture" />
   <h1>Hi there, I'm Qistina Balqis! 👋</h1>
 </div>
 
