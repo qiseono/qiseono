@@ -43,7 +43,7 @@ An aspiring **Data Engineer** currently pursuing a Bachelor of Computing (Data E
 ## 📫 Let's Connect
 
 * **Email:** [qiseono@gmail.com](mailto:qiseono@gmail.com)
-* **GitHub:** [your-github-username](https://github.com/qiseono)
+* **GitHub:** [qiseono](https://github.com/qiseono)
 
 <!--
 **qiseono/qiseono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
